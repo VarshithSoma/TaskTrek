@@ -500,3 +500,6 @@ p[data-width="wide"] {
     opacity: 0;
   }
 }
+.hamburger {
+  z-index: 5;
+}
